@@ -32,7 +32,7 @@ __B.Sc.__, Department of Statistics and Applied Probability, National National U
 
 ## Awards
 
-`June 2013, June 2011`
+`2013, 2011`
 Dean’s list
 
 `June 2010`
