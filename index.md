@@ -61,7 +61,7 @@ __Data analyst__, YH2 Capital Management
 
 ## Software
 
-R, SQL, [Shiny](https://shiny.rstudio.com)
+Competent in R, SQL, [Shiny](https://shiny.rstudio.com), basic in python, Excel VBA, Matlab, SPSS, SAS, C++, Ruby, Linux
 
 ## Language
 
