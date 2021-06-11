@@ -1,91 +1,73 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Mao Yinan's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Mao Yinan
+Statistician, PhD candidate, Public health researcher.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="maoyinan.jscz@gmail.com">Email</a>
+| <a href="https://github.com/maoyinan">My Github page</a>
 </div>
 
 
-## Currently
-
-Standing on the shoulders of giants
-
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+Statistics, Bayesian applications, Machine learning, R programming, Interactive graphics
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Public health, Epidemiology, Precision medicine, Health technologies, Digital health, Mobile health
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2017-2021`
+__Ph.D.__, Department of Statistics and Applied Probability, National National University of Singapore
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2010-2014`
+__B.Sc.__, Department of Statistics and Applied Probability, National National University of Singapore
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
+- Minor in Financial mathematics, Minor in Economics
+- 1st class Honors’ degree with CAP of 4.53/5
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`June 2013, June 2011`
+Dean’s list
 
-Associate, *French Academy of Science*, Paris, France
+`June 2010`
+Ministry of Education undergraduate scholarship
 
+## Projects
 
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+A list is also available [online](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F5Trc4mxfq60WmG1fWssZbL-zvdLCGivfv4UFBFcGTf_Osi5vqcgwMh0cr9S4XvDPhOk0cRbFa_43yASl_b8zdWK984rqAfNwQLtQSR2uYcIPIl5_M&user=bGcwAH8AAAAJ)
 
-### Journals
+`2020`
+Detecting conflicting summary statistics in likelihood-free inference
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
+`2021`
+Identifying COVID-19 cases in outpatient settings
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2018-2021`
+__Research assistant__, Saw Swee Hock School of Public Health, National University of Singapore
 
-- Warden
-- Minted coins
+`2014-2017`
+__Data analyst__, YH2 Capital Management
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+## Software
 
+R, SQL, [Shiny](https://shiny.rstudio.com)
 
+## Language
 
-<!-- ### Footer
+Native in Mandarin, proficient in English, basic in German and French.
 
-Last updated: May 2013 -->
+---
+Last updated: June 2021
 
 
