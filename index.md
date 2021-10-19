@@ -76,7 +76,8 @@ S Sensaki, Y Mao, A Biswas, C Amutha, Z Amin, AR Cook, J Lee. Epidemiology of bi
 __Research assistant__, Saw Swee Hock School of Public Health, National University of Singapore
 
 `2014-2017`
-__Data analyst__, YH2 Capital Management &mdash; From managing database to deriving financial insights based on financial statements and stock prices of SP500 companies.
+__Data analyst__, YH2 Capital Management 
+- From managing database to deriving financial insights based on financial statements and stock prices of SP500 companies.
 
 ## Software
 
