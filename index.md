@@ -7,7 +7,7 @@ Statistician, Public health researcher, PhD candidate (expected to graduate soon
 
 <div id="webaddress">
 <a href= "https://github.com/maoyinan">GitHub</a>
-| <a href= "maoyinan.jscz@gmail.com">maoyinan.jscz@gmail.com</a>
+| <a href= "mailto:maoyinan.jscz@gmail.com">Email</a>
 </div>
 
 ## Specialized in
@@ -76,7 +76,7 @@ __Research assistant__, Saw Swee Hock School of Public Health, National Universi
 
 `2014-2017`
 __Data analyst__, YH2 Capital Management 
-> From managing database to deriving financial insights based on financial statements and stock prices of SP500 companies.
+- From managing database to deriving financial insights based on financial statements and stock prices of SP500 companies.
 
 ## Software
 
