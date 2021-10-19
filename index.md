@@ -7,7 +7,7 @@ Statistician, Public health researcher, PhD candidate (expected to graduate soon
 
 <div id="webaddress">
 <a href= "https://github.com/maoyinan">GitHub</a>
-| <a href= "maoyinan.jscz@gmail.com">Email</a>
+| <a href= "maoyinan.jscz@gmail.com">maoyinan.jscz@gmail.com</a>
 </div>
 
 ## Specialized in
@@ -58,7 +58,7 @@ The full list is available [online](https://scholar.google.com/citations?hl=en&v
 Y Mao, X Wang, DJ Nott, M Evans,(2021). Detecting conflicting summary statistics in likelihood-free inference. *Statistics and Computing 31* (6), 1-20
 
 `2021`
-Y Mao, YR Tan, TL Thein, YAL Chai, AR Cook, BL Dickens, ...Desmond Luan Seng Ong, (2021). Identifying COVID-19 cases in outpatient settings. *Epidemiology & Infection 149*
+Y Mao, YR Tan, TL Thein, YAL Chai, AR Cook, BL Dickens, ...DLS Ong, (2021). Identifying COVID-19 cases in outpatient settings. *Epidemiology & Infection 149*
 
 `Submitted`
 Y Mao, DJ Nott. Bayesian clustering using random effects models and predictive projections
