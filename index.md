@@ -6,8 +6,8 @@ title: Mao Yinan
 Statistician, Public health researcher, PhD candidate (expected to graduate soon).
 
 <div id="webaddress">
-<a href= "https://github.com/maoyinan">github.com/maoyinan</a>
-| <a href= "maoyinan.jscz@gmail.com">maoyinan.jscz@gmail.com</a>
+<a href= "https://github.com/maoyinan">GitHub</a>
+| <a href= "maoyinan.jscz@gmail.com">Email</a>
 </div>
 
 ## Specialized in
@@ -40,7 +40,7 @@ Dean’s list &mdash; Awarded per semester to top 5-10% cohort
 
 `2021`
 __GlucoseAPP__, An interactive *Shiny* application supporting manuscript *Diabetes risk stratification using continuous glucose monitoring profiles and machine learning*
-> This online web tool at [sshsphdemos.shinyapps.io/GlucoseAPP/](https://sshsphdemos.shinyapps.io/GlucoseAPP/) visualises individual CGM (continuous glucose monitoring) data and its projection to a lower-dimensional space of features representing centrality, spread, size and duration of glycemic excursions and the circadian cycle. The features are summarised in histogram form and relationships with demographic variables are explored. Interactive controls are available at the side panel to customise viewing interval, patient of interest, etc. In the manuscript, we base on features calculated in this tool and then use principal components analysis and k means to cluster patients’ records into one of four glucotypes, and analyze cluster membership using multinomial logistic regression.
+> This [online web tool](https://sshsphdemos.shinyapps.io/GlucoseAPP/) visualises individual CGM (continuous glucose monitoring) data and its projection to a lower-dimensional space of features representing centrality, spread, size and duration of glycemic excursions and the circadian cycle. The features are summarised in histogram form and relationships with demographic variables are explored. Interactive controls are available at the side panel to customise viewing interval, patient of interest, etc. In the manuscript, we base on features calculated in this tool and then use principal components analysis and k means to cluster patients’ records into one of four glucotypes, and analyze cluster membership using multinomial logistic regression.
 
 `2021`
 __BayesPC__, R package for manuscript *Bayesian clustering using random effects models and predictive projections*
@@ -88,7 +88,7 @@ Native in Mandarin, proficient in English, basic in German and French.
 
 ---
 Last updated: October 2021
-| The online version of this CV is hosted on <a href= "https://maoyinan.github.io/markdown-cv/">maoyinan.github.io/markdown-cv/</a>
+| The online version of this CV is hosted on <a href= "https://maoyinan.github.io/markdown-cv/">GitHub</a>
 
 
 
