@@ -5,16 +5,16 @@ title: Mao Yinan's CV
 # Mao Yinan
 Statistician, Public health researcher, PhD candidate (expected to graduate soon).
 
-<div id="personalLinks">
+<div id="webaddress">
 <a href= "https://github.com/maoyinan">Github</a>
 | <a href= "maoyinan.jscz@gmail.com">Email</a>
 </div>
 
-### Specialized in
+## Specialized in
 
 Epidemiology, Bayesian statistics, Machine learning, Big data analysis, R programming, Interactive graphics
 
-### Research interests
+## Research interests
 
 Public health, Epidemiology, Precision medicine, Health technologies, Digital health, Mobile health
 
@@ -83,9 +83,7 @@ Native in Mandarin, proficient in English, basic in German and French.
 
 ---
 Last updated: October 2021
-<div id="webaddress">
-The online version of this CV is hosted on <a href= "https://maoyinan.github.io/markdown-cv/">Github</a>
-</div>
+| The online version of this CV is hosted on <a href= "https://maoyinan.github.io/markdown-cv/">Github</a>
 
 
 
