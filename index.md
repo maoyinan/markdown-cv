@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Mao Yinan's CV
+title: Mao Yinan
 ---
 # Mao Yinan
 Statistician, Public health researcher, PhD candidate (expected to graduate soon).
