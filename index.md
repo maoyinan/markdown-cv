@@ -74,7 +74,7 @@ S Sensaki, Y Mao, A Biswas, C Amutha, Z Amin, AR Cook, J Lee. Epidemiology of bi
 
 ## Occupation
 
-'2022/01-now`
+`2022/01-now`
 __Research associate__, The Laboratory of Data Discovery for Health (D24H)
 
 `2018/01-2021/12`
