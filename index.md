@@ -94,7 +94,7 @@ Competent in R, SQL, [Shiny](https://shiny.rstudio.com), basic in python, Excel 
 Native in Mandarin, proficient in English, basic in German and French.
 
 ---
-Last updated: October 2021
+Last updated: 2022/02
 | The online version of this CV is hosted on <a href= "https://maoyinan.github.io/markdown-cv/">GitHub</a>
 
 
