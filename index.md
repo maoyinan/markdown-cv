@@ -3,7 +3,7 @@ layout: cv
 title: Mao Yinan
 ---
 # Mao Yinan
-Statistician, Public health researcher, PhD candidate (expected to graduate soon).
+Statistician, Public health researcher, PhD candidate (thesis submitted).
 
 <div id="webaddress">
 <a href= "https://github.com/maoyinan">GitHub</a>
@@ -67,7 +67,7 @@ Y Mao, YR Tan, TL Thein, YAL Chai, AR Cook, BL Dickens, ...DLS Ong, (2021). Iden
 Y Mao, DJ Nott. Bayesian clustering using random effects models and predictive projections
 
 `Revised and re-submitted`
-Y Mao, X Tan, A Seng, P Wong, S Toh, AR Cook. Diabetes risk stratification using continuous glucose monitoring profiles and machine learning
+Y Mao, X Tan, A Seng, P Wong, S Toh, AR Cook. Diabetes risk stratification using continuous glucose monitoring profiles and machine learning. *Health Data Science*
 
 `Submitted`
 S Sensaki, Y Mao, A Biswas, C Amutha, Z Amin, AR Cook, J Lee. Epidemiology of birth anthropometry among three Asian ethnic groups in Singapore
@@ -77,8 +77,12 @@ S Sensaki, Y Mao, A Biswas, C Amutha, Z Amin, AR Cook, J Lee. Epidemiology of bi
 `2022/01-now`
 __Research associate__, The Laboratory of Data Discovery for Health (D24H)
 
+Academic research in public health field.
+
 `2018/01-2021/12`
 __Research assistant__, Saw Swee Hock School of Public Health, National University of Singapore
+
+Academic research in public health field.
 
 `2014/06-2017/01`
 __Data analyst__, YH2 Capital Management 
@@ -87,7 +91,7 @@ From managing database to deriving financial insights based on financial stateme
 
 ## Software
 
-Competent in R, SQL, [Shiny](https://shiny.rstudio.com), basic in python, Excel VBA, Matlab, SPSS, SAS, C++, Ruby, Linux
+Competent in R, SQL, Shiny, basic in python, Excel VBA, Matlab, SPSS, SAS, C++, Ruby, Linux
 
 ## Language
 
