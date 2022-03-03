@@ -3,20 +3,32 @@ layout: cv
 title: Mao Yinan
 ---
 # Mao Yinan
-Statistician, Public health researcher, PhD candidate (thesis submitted).
+Data scientist, Statistician, Public health researcher, PhD candidate (thesis submitted).
 
-<div id="webaddress">
-<a href= "https://github.com/maoyinan">GitHub</a>
-| <a href= "mailto:maoyinan.jscz@gmail.com">Email</a>
-</div>
+Github: https://github.com/maoyinan |
+Gmail: maoyinan.jscz@gmail.com
 
 ## Specialized in
 
-Epidemiology, Bayesian statistics, Machine learning, Big data analysis, R programming, Interactive graphics
+Machine learning, Statistical programming, Epidemiology, Bayesian statistics, Big data analysis, Interactive graphics
 
-## Research interests
 
-Public health, Epidemiology, Precision medicine, Health technologies, Digital health, Mobile health
+## Occupation
+
+`2022/01-now`
+__Research associate__, The Laboratory of Data Discovery for Health (D24H)
+
+Academic research in public health field.
+
+`2018/01-2021/12`
+__Research assistant__, Saw Swee Hock School of Public Health, National University of Singapore
+
+Academic research in public health field.
+
+`2014/06-2017/01`
+__Data analyst__, YH2 Capital Management 
+
+From managing database to deriving financial insights based on financial statements and stock prices of SP500 companies.
 
 ## Education
 
@@ -71,23 +83,6 @@ Y Mao, X Tan, A Seng, P Wong, S Toh, AR Cook. Diabetes risk stratification using
 
 `Submitted`
 S Sensaki, Y Mao, A Biswas, C Amutha, Z Amin, AR Cook, J Lee. Epidemiology of birth anthropometry among three Asian ethnic groups in Singapore
-
-## Occupation
-
-`2022/01-now`
-__Research associate__, The Laboratory of Data Discovery for Health (D24H)
-
-Academic research in public health field.
-
-`2018/01-2021/12`
-__Research assistant__, Saw Swee Hock School of Public Health, National University of Singapore
-
-Academic research in public health field.
-
-`2014/06-2017/01`
-__Data analyst__, YH2 Capital Management 
-
-From managing database to deriving financial insights based on financial statements and stock prices of SP500 companies.
 
 ## Software
 
