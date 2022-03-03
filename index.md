@@ -72,23 +72,23 @@ This paper reports tools to classify patients based on symptom profiles based on
 The full list is available [online](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F5Trc4mxfq60WmG1fWssZbL-zvdLCGivfv4UFBFcGTf_Osi5vqcgwMh0cr9S4XvDPhOk0cRbFa_43yASl_b8zdWK984rqAfNwQLtQSR2uYcIPIl5_M&user=bGcwAH8AAAAJ)
 
 `2021`
-Y Mao, X Wang, DJ Nott, M Evans,(2021). Detecting conflicting summary statistics in likelihood-free inference. *Statistics and Computing 31* (6), 1-20
+**Y Mao**, X Wang, DJ Nott, M Evans,(2021). Detecting conflicting summary statistics in likelihood-free inference. *Statistics and Computing 31* (6), 1-20
 
 `2021`
-Y Mao, YR Tan, TL Thein, YAL Chai, AR Cook, BL Dickens, ...DLS Ong, (2021). Identifying COVID-19 cases in outpatient settings. *Epidemiology & Infection 149*
+**Y Mao**, YR Tan, TL Thein, YAL Chai, AR Cook, BL Dickens, ...DLS Ong, (2021). Identifying COVID-19 cases in outpatient settings. *Epidemiology & Infection 149*
 
 `Submitted`
-Y Mao, DJ Nott. Bayesian clustering using random effects models and predictive projections
+**Y Mao**, DJ Nott. Bayesian clustering using random effects models and predictive projections
 
 `Revised and re-submitted`
-Y Mao, X Tan, A Seng, P Wong, S Toh, AR Cook. Diabetes risk stratification using continuous glucose monitoring profiles and machine learning. *Health Data Science*
+**Y Mao**, X Tan, A Seng, P Wong, S Toh, AR Cook. Diabetes risk stratification using continuous glucose monitoring profiles and machine learning. *Health Data Science*
 
 `Submitted`
-S Sensaki, Y Mao, A Biswas, C Amutha, Z Amin, AR Cook, J Lee. Epidemiology of birth anthropometry among three Asian ethnic groups in Singapore
+S Sensaki, **Y Mao**, A Biswas, C Amutha, Z Amin, AR Cook, J Lee. Epidemiology of birth anthropometry among three Asian ethnic groups in Singapore
 
 ## Software
 
-Competent in R, SQL, Matlab, basic in python, Excel VBA, SPSS, SAS, C++, Ruby, Linux
+Proficient in R, SQL, Matlab, familiar in Excel VBA, SPSS, SAS, C++, Ruby, Linux, Python
 
 ## Language
 
