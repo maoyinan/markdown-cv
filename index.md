@@ -2,7 +2,7 @@
 layout: cv
 title: Mao Yinan
 ---
-# Mao Yinan
+# Yinan Mao
 Data scientist, Statistician, Public health researcher, PhD candidate (thesis submitted).
 
 Github: https://github.com/maoyinan |
@@ -18,12 +18,14 @@ Machine learning, Statistical programming, Epidemiology, Bayesian statistics, Bi
 `2022/01-now`
 __Research associate__, The Laboratory of Data Discovery for Health (D24H)
 
-Academic research in public health field.
+Algorithm speed improvement in Bayesian computation.
 
 `2018/01-2021/12`
 __Research assistant__, Saw Swee Hock School of Public Health, National University of Singapore
 
-Academic research in public health field.
+- Online tools for COVID-19 assessment for doctors in Singapore
+- Personalised automatic diagnosis: classification of diabetes profiles with machine learning
+- Flexible Bayesian clustering techniques as alternative to classical machine learning (R-package: BayesPC)
 
 `2014/06-2017/01`
 __Data analyst__, YH2 Capital Management 
@@ -86,7 +88,7 @@ S Sensaki, Y Mao, A Biswas, C Amutha, Z Amin, AR Cook, J Lee. Epidemiology of bi
 
 ## Software
 
-Competent in R, SQL, Shiny, basic in python, Excel VBA, Matlab, SPSS, SAS, C++, Ruby, Linux
+Competent in R, SQL, Matlab, basic in python, Excel VBA, SPSS, SAS, C++, Ruby, Linux
 
 ## Language
 
