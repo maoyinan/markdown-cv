@@ -9,7 +9,7 @@ Website: https://sites.google.com/view/yinanmao
 
 Github: https://github.com/maoyinan 
 
-Gmail: yinan.mao.ds@gmail.com
+Email: yinan.mao.ds@gmail.com
 
 ## Specialized in
 
