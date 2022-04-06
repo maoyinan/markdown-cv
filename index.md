@@ -3,7 +3,7 @@ layout: cv
 title: Mao Yinan
 ---
 # Yinan Mao
-Data scientist, Statistician, Public health researcher, PhD candidate (thesis submitted).
+Data scientist, Statistician, Researcher, PhD candidate (thesis submitted).
 
 Website: https://sites.google.com/view/yinanmao 
 
