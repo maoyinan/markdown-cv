@@ -5,8 +5,10 @@ title: Mao Yinan
 # Yinan Mao
 Data scientist, Statistician, Public health researcher, PhD candidate (thesis submitted).
 
-Website: https://sites.google.com/view/yinanmao
-Github: https://github.com/maoyinan |
+Website: https://sites.google.com/view/yinanmao 
+
+Github: https://github.com/maoyinan 
+
 Gmail: yinan.mao.ds@gmail.com
 
 ## Specialized in
