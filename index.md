@@ -91,7 +91,7 @@ S Sensaki, **Y Mao**, A Biswas, C Amutha, Z Amin, AR Cook, J Lee. Epidemiology o
 
 ## Software
 
-Proficient in R, SQL, Matlab, familiar in Excel VBA, SPSS, SAS, C++, Ruby, Linux, Python
+Proficient in R, SQL, Matlab, familiar in Python, Excel VBA, SPSS, SAS, C++, Ruby, Linux
 
 ## Language
 
