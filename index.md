@@ -5,8 +5,9 @@ title: Mao Yinan
 # Yinan Mao
 Data scientist, Statistician, Public health researcher, PhD candidate (thesis submitted).
 
+Website: https://sites.google.com/view/yinanmao
 Github: https://github.com/maoyinan |
-Gmail: maoyinan.jscz@gmail.com
+Gmail: yinan.mao.ds@gmail.com
 
 ## Specialized in
 
@@ -80,7 +81,7 @@ The full list is available [online](https://scholar.google.com/citations?hl=en&v
 `Submitted`
 **Y Mao**, DJ Nott. Bayesian clustering using random effects models and predictive projections
 
-`Revised and re-submitted`
+`2022`
 **Y Mao**, X Tan, A Seng, P Wong, S Toh, AR Cook. Diabetes risk stratification using continuous glucose monitoring profiles and machine learning. *Health Data Science*
 
 `Submitted`
@@ -95,7 +96,7 @@ Proficient in R, SQL, Matlab, familiar in Excel VBA, SPSS, SAS, C++, Ruby, Linux
 Native in Mandarin, proficient in English, basic in German and French.
 
 ---
-Last updated: 2022/02
+Last updated: 2022/04
 | The online version of this CV is hosted on <a href= "https://maoyinan.github.io/markdown-cv/">GitHub</a>
 
 
